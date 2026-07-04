@@ -1,0 +1,13 @@
+¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas que usan comunidades o procesos participativos?
+
+Respuesta:
+La seguridad digital es clave porque las plataformas comunitarias manejan información sensible de las personas.
+Si no se protegen los datos, pueden filtrarse nombres, direcciones o reportes que pongan en riesgo a los ciudadanos.
+Una brecha de seguridad puede hacer que la comunidad pierda la confianza en la plataforma.
+Proteger las credenciales evita que personas ajenas manipulen reportes o eliminen información importante.
+Usar sistemas de código abierto como Linux permite auditar el código y encontrar fallas más rápido.
+Mantener el software actualizado cierra vulnerabilidades que podrían ser aprovechadas.
+La seguridad también garantiza que los reportes lleguen a las autoridades correctas y no sean alterados.
+En procesos participativos, la seguridad da transparencia y confianza para que más personas se unan.
+Sin seguridad, una plataforma puede ser hackeada y usada para desinformar o sabotear.
+En resumen, la seguridad digital protege tanto a las personas como a la democracia participativa.
