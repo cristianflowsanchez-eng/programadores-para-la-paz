@@ -1,0 +1,7 @@
+Una plataforma de participación ciudadana necesita una base de datos para guardar de forma ordenada, segura y permanente toda la información que genera la comunidad, sin perder los reportes ni el historial de las acciones.
+
+La autenticación de usuarios es fundamental para garantizar que solo personas autorizadas realicen ciertas acciones, evitando modificaciones indebidas, suplantaciones o abusos que rompan la confianza en el sistema.
+
+Proteger la información es una obligación ética y legal: los ciudadanos confían datos que si se exponen podrían usarse para dañarlos, por lo que se debe cuidar la privacidad y evitar filtraciones.
+
+Juntas, estas partes permiten que la plataforma sea confiable, transparente y respetuosa con las personas, haciendo que la participación sea segura y útil para todos.
