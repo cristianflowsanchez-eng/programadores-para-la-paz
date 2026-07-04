@@ -1,0 +1,13 @@
+Prueba de rutas del servidor:
+
+1. Ruta: http://localhost:3000
+   Respuesta: Servidor activo
+   Explicación: Es la ruta principal. Al entrar muestra que el servidor está funcionando correctamente.
+
+2. Ruta: http://localhost:3000/saludo
+   Respuesta: Hola comunidad
+   Explicación: Esta ruta devuelve un saludo general para la comunidad.
+
+3. Ruta: http://localhost:3000/mensaje/juan
+   Respuesta: Hola juan
+   Explicación: Esta ruta recibe un parámetro en la URL llamado "nombre". Cambia el saludo según el nombre que se ponga.
