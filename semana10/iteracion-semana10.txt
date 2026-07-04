@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Como ciudadano quiero registrar una incidencia pública para dejar constancia de la situación.
+2. Como coordinador quiero recibir una notificación inmediata al sistema para saber que hay un reporte nuevo.
+
+¿Por qué son las más importantes?
+Son la base de toda la solución: sin poder registrar reportes no hay información que gestionar, y sin la notificación no se puede dar seguimiento oportuno a las situaciones reportadas. Son las funciones esenciales para que el proyecto cumpla su propósito.
+
+Definición simple de "tarea terminada":
+- La función cumple exactamente lo que describe la historia de usuario.
+- Fue probada y funciona sin errores.
+- Se documentó y subió al repositorio de Git.
