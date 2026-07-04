@@ -1,0 +1,4 @@
+1. Como ciudadano quiero registrar una incidencia pública para dejar constancia de la situación.
+2. Como coordinador quiero recibir una notificación inmediata al sistema para saber que hay un reporte nuevo.
+3. Como equipo de seguimiento quiero ver el listado de reportes pendientes para organizar la revisión.
+4. Como ciudadano quiero ver el estado general de mi reporte sin ingresar datos privados.
