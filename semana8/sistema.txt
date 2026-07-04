@@ -1,0 +1,13 @@
+Información del sistema:
+
+Comando: uname -a
+Qué muestra: Información detallada del sistema operativo Linux. Muestra el nombre del kernel, versión, fecha y arquitectura del equipo.
+
+Comando: whoami
+Qué muestra: El nombre del usuario que está usando la terminal actualmente.
+
+Por qué es útil en un servidor:
+Conocer el sistema y el usuario es fundamental para administrar un servidor. 
+Permite saber con qué permisos se está trabajando, detectar si hay usuarios extraños conectados,
+verificar que el sistema esté actualizado y diagnosticar problemas. 
+En plataformas comunitarias ayuda a mantener el control y evitar accesos no autorizados.
