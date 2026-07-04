@@ -1,0 +1,13 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+
+Respuesta:
+Es importante porque permite que la comunidad tenga un canal formal para reportar problemas.
+Al registrar incidencias en una plataforma, la información queda organizada y no se pierde.
+Consultar los reportes ayuda a identificar patrones y zonas con más problemas.
+Las autoridades pueden priorizar soluciones según la cantidad de reportes por tipo.
+Esto da transparencia porque los ciudadanos pueden ver si su reporte fue atendido.
+Evita la duplicación de reportes porque todos ven los que ya existen.
+Con una API, diferentes apps pueden conectarse y compartir la misma información.
+Esto fortalece la participación ciudadana y la rendición de cuentas.
+Además, tener datos históricos sirve para planear proyectos y pedir recursos.
+En resumen, registrar y consultar reportes hace que la gestión comunitaria sea más eficiente y colaborativa.
