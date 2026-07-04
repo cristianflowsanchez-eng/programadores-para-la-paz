@@ -1,0 +1,17 @@
+Registro de ejecución del servidor:
+
+Al ejecutar node server.js en la terminal, el servidor Express se inicia y queda a la espera de solicitudes.
+
+Mensaje que aparece en la terminal:
+Servidor ejecutándose en puerto 3000
+
+Al visitar http://localhost:3000 en el navegador se muestra:
+Servidor activo y funcionando
+
+Al visitar http://localhost:3000/estado se devuelve:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+El servidor permanece activo hasta que se detiene la terminal con Ctrl + C.
