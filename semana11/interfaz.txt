@@ -1,0 +1,7 @@
+La interfaz contará con una página principal donde se muestran todas las causas comunitarias disponibles, ordenadas por fecha o relevancia, con su título y descripción breve.
+
+Contará con un formulario sencillo para crear una nueva causa, con campos para escribir el título, la descripción y seleccionar una categoría, además de un botón para guardar el registro.
+
+Cada causa tendrá un botón visible para apoyarla, que al presionarlo actualizará automáticamente un contador que muestra cuántas personas han dado su apoyo.
+
+Solo se mostrará información pública; no aparecerán datos privados de quienes crearon o apoyaron las causas, manteniendo la privacidad de los usuarios.
