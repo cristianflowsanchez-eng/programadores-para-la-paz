@@ -1,0 +1,16 @@
+Prueba de la ruta POST /registro
+
+Al enviar una petición POST a http://localhost:3000/registro con este JSON:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor responde con:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación: El servidor recibe los datos que enviamos en req.body gracias a express.json(), los toma y los devuelve en la respuesta confirmando que fueron recibidos correctamente.
