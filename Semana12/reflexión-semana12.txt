@@ -1,0 +1,9 @@
+Durante el curso aprendí que la tecnología puede ser una herramienta poderosa para fortalecer la participación ciudadana y la organización comunitaria. 
+
+Lo más importante no es solo programar, sino diseñar soluciones sencillas, seguras y útiles que la gente realmente pueda usar. Aprendí que "Petición en 3 Clics" demuestra cómo backend, base de datos y automatización se conectan para convertir una idea en una acción formal.
+
+También entendí que la seguridad y la minimización de datos son fundamentales para generar confianza. Si las personas no se sienten seguras, no participan.
+
+Otro aprendizaje clave fue que la tecnología debe cerrar el ciclo: no basta con recoger firmas, hay que generar documentos, notificar y hacer seguimiento.
+
+Finalmente, comprendí que el impacto social real ocurre cuando la tecnología organiza, documenta y empodera a la comunidad para exigir respuestas democráticas de forma estructurada.
