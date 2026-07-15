@@ -1,0 +1,8 @@
+Automatización con n8n o Telegram:
+
+Evento que activa la automatización: Cuando una causa alcanza 100 apoyos registrados.
+
+Mensaje que se envía: "Alerta: La causa 'Reparación de vías en el barrio' ya alcanzó 100 apoyos. El documento PDF está listo para descarga."
+
+Información que NO debe enviarse por seguridad: 
+Cédulas, teléfonos, direcciones exactas, correos personales, comentarios sensibles o cualquier dato personal de los firmantes. Solo se debe enviar el título de la causa y el número total de apoyos.
